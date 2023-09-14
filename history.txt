@@ -159,3 +159,22 @@
  1030  git add .
  1031  git commit -m 'history and logs again'
  1032  git push 
+ 1033  history 0 | grep git > history.txt
+ 1034  git add .
+ 1035  git commit -m 'updated history.txt'
+ 1036  git push
+ 1037  git branch newbranch
+ 1038  git branch
+ 1039  git merge newbranch
+ 1040  git branch
+ 1041  git switch newbranch
+ 1043  git add .
+ 1044  git commit -m 'new branch txt'
+ 1045  git switch main
+ 1046  git merge newbranch
+ 1047  git branch
+ 1048  git branch -d newbranch
+ 1049  git branch
+ 1050  git add .
+ 1051  git commit -m 'updates branches'
+ 1052  git push
