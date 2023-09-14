@@ -1,0 +1,7 @@
+ 1061  history | grep git > history.txt
+ 1063  git add .
+ 1064  git commit -m 'history and logs'
+ 1065  git push
+ 1074  cd git_practice
+ 1075  git log --oneline > gitlog.txt
+ 1076  git log --oneline > gitlog.txt
