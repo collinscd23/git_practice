@@ -1,7 +1,16 @@
- 1061  history | grep git > history.txt
- 1063  git add .
- 1064  git commit -m 'history and logs'
- 1065  git push
- 1074  cd git_practice
- 1075  git log --oneline > gitlog.txt
- 1076  git log --oneline > gitlog.txt
+ 1013  git push
+ 1014  git branch
+ 1015  git push
+ 1016  git status
+ 1017  git branch
+ 1018  git push
+ 1019  git log
+ 1020  git status
+ 1021  git branch -r
+ 1022  git branch -a
+ 1023  git push
+ 1024  git push
+ 1025  git add .
+ 1026  git commit -m 'add all'
+ 1027  git push
+ 1028  git log --oneline > gitlog.txt

@@ -1,3 +1,6 @@
+bf1cbf9 title
+5e7d829 capitalization
+1202c0d history og
 35968ff .DS_store
 dac9fe6 updated file 1
 5c400a3 New feature update
