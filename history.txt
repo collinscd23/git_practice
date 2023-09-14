@@ -1,3 +1,144 @@
+  113  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  278  python3 ok -q missing_digits
+  279  python3 ok -q missing_digits
+  280  python3 ok -q missing_digits
+  282  python3 ok -q missing_digits
+  283  python3 ok -q missing_digits
+  776  git
+  780  git clone https://github.com/BYUCS235/Maze-Lab.git
+  784  git clone https://github.com/BYUCS235/Search.git
+  789  git clone https://github.com/BYUCS235/recursivesearch.git
+  794  git
+  801  git
+  802  git clone https://github.com/BYUCS235/Quicksort-Lab.git
+  806  git init
+  814  git init
+  815  git add .
+  821  git add .
+  822  git commit -m "first Commit"
+  823  git branch
+  824  git remote add orgin https://github.com/collinscd23/Quicksort-Lab.git
+  825  git push -u origin master
+  826  git init
+  827  git init
+  828  git add .
+  829  git commit -m "first commit"
+  830  git remote add origin https://github.com/collinscd23/Quicksort-Lab.git\ngit branch -M main\ngit push -u origin main
+  831  git remote add origin https://github.com/collinscd23/Quicksort-Lab.git\ngit branch -M main\ngit push -u origin main
+  832  git remote add origin https://github.com/collinscd23/Quicksort-Lab.git\n
+  833  git branch -M main
+  834  git push -u origin main
+  840  echo "# Quicksort-Lab" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin https://github.com/collinscd23/Quicksort-Lab.git\ngit push -u origin main
+  841  git remote add origin https://github.com/collinscd23/Quicksort-Lab.git
+  842  git init
+  843  https://github.com/collinscd23/Quicksort-Lab.git
+  844  git remote add origin https://github.com/collinscd23/Quicksort-Lab.git\ngit branch -M main\ngit push -u origin main
+  845  git remote add origin https://github.com/collinscd23/Quicksort-Lab.git\ngit branch -M main\ngit push -u origin main
+  850  git
+  863  git
+  864  git -v
+  870  git
+  871  git config --global user.name "Carson Collins"
+  872  git config --global user.name "collinscd23@gmail.com"
+  873  git config --global core.editor "code --wait"
+  874  git config --global init.defauktBranch main
+  875  git config --global user.name "Carson Collins"
+  876  git --global user.email "collinscd23@gmail.com"
+  877  git config --list
+  878  git config --global user.email "collinscd23@gmail.com"
+  879  git config --list
+  884  mkdir git_practice
+  886  cd git_practice
+  889  git status
+  890  git init
+  891  git status
+  893  git status
+  895  git status
+  896  git add file_1.txt
+  897  git status
+  898  git commit -m 'create file_1.txt'
+  899  git status
+  901  git --list
+  908  git status
+  909  cd git_practice
+  911  git status
+  912  git log
+  915  git status
+  916  git add file_1.txt
+  917  git status
+  918  git add file_2.txt
+  919  git status
+  920  git commit -m 'edited text files'
+  921  git status
+  922  git log
+  930  cd git_practice
+  931  git status
+  932  git log
+  934  git branch
+  935  git branch new_feature
+  936  git branch
+  937  git switch new_feature
+  938  git branch
+  940  git add .
+  941  git commit - m 'create feature file'
+  942  git commit - m 'create feature file'
+  943  git commit -m 'create feature file'
+  944  git status
+  945  git log --oneline
+  946  git switch main
+  947  git log --oneline
+  948  git branch
+  949  git merge new_feature
+  950  git log
+  951  git branch
+  952  git branch
+  953  git switch new_feature
+  954  git branch
+  955  git status
+  956  git log
+  957  git log
+  958  git branch
+  959  git switch branch
+  960  git switch main
+  961  git branch
+  962  git branch -d new_feature
+  963  git branch
+  964  git log
+  966  git status
+  967  git log
+  968  git log
+  973  cd git_practice
+  975  git remote
+  976  git status
+  978  git remote add origin git@github.com:collinscd23/git_practice.git
+  979  git remote
+  980  git remote -v
+  981  git push -u origin main
+  982  git log
+  983  cd git_practice
+  984  cd desktop/stats-386/git_practice
+  986  git log --oneline
+  987  git remote
+  988  git status
+  989  git push
+  990  git push
+  992  touch .gitignore
+  994  git push
+  995  git status
+  997  git reset api-keys.txt
+  998  git rm --cached api-keys.txt
+ 1000  git status
+ 1001  git status
+ 1002  git push
+ 1004  git push
+ 1005  git add
+ 1006  git add *
+ 1007  git status
+ 1008  git push
+ 1009  git add *
+ 1010  git status
+ 1011  git push
+ 1012  git status
  1013  git push
  1014  git branch
  1015  git push
@@ -14,3 +155,7 @@
  1026  git commit -m 'add all'
  1027  git push
  1028  git log --oneline > gitlog.txt
+ 1029   history | grep git > history.txt
+ 1030  git add .
+ 1031  git commit -m 'history and logs again'
+ 1032  git push 
